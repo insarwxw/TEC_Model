@@ -1,4 +1,4 @@
-## Thermal Elastic Conctraction (TEC) model 
+## Thermoelastic Conctraction (TEC) model 
 
 Matlab scripts for calculating ground surface displacements due to thermoelastic contraction. The model was developed by Furuya (2005), who gave the analytical quasi-static solution of ground deformation in response to an instantaneous heat source in an elastic half-space. The model can be applied to infer post-eruptive deformation after magma intrusion or lava emplacement. 
 
